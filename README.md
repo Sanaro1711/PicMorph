@@ -22,9 +22,9 @@ You will be asked to enter the input path of the image, the output path of the c
 **NOTE** The image you want to convert must be in the same folder as this program
 
 **Example Usage**
-*input_path*: sample_image.PNG
-*output_path*: converted_image.JPEG
-*file_format*: JPEG
+*input_path*: sample_image.PNG  
+*output_path*: converted_image.JPEG  
+*file_format*: JPEG  
 
 Your newly converted image will now be available in the folder in which you have saved this program
 
